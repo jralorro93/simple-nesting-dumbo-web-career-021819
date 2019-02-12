@@ -56,7 +56,6 @@ def dennis_ritchies_language
         }
      }
   programmer_hash[:dennis_ritchie][:languages].join
-  binding.pry
 end
 
 def adding_matz
